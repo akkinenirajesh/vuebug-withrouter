@@ -3,6 +3,4 @@
        It worked, 
    </div>
 </template>
-<script>
-    module.exports = require('./Users').default
-</script>
+<script lang="ts" src="./Users.ts"></script>
